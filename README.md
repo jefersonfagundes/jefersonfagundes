@@ -5,7 +5,7 @@
   <div align="left">
     <p align="left">👨🏽‍🎓 Aprendendo sobre <b>Desenvolvimento Web</b> voltado ao <b>Front-end</b> com auxílio de um mentor.</p>
     <p>💻 Estudando: <b>HTML</b> e <b>CSS</b>.</p>
-    <p>🥇 O caminho mais seguro para o sucesso é sempre tentar apenas uma vez mais. - Thomas Edison</p>
+    <p>🥇 O caminho mais seguro para o sucesso é sempre tentar apenas uma vez mais. - T.E</p>
   </div><br>
 
 <div align="center">
