@@ -1,16 +1,25 @@
-### Hi there 👋
+## < Hello World! /> I'm Jeferson Rosa Fagundes
 
-<!--
-**jefersonfagundes/jefersonfagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coder GIF" width="250"><br>
 
-Here are some ideas to get you started:
+  <div align="left">
+    <p align="left">👨🏽‍🎓 Aprendendo sobre <b>Desenvolvimento Web</b> voltado ao <b>Front-end</b> com auxílio de um mentor.</p>
+    <p>💻 Estudando: <b>HTML</b> e <b>CSS</b>.</p>
+    <p>🥇 O caminho mais seguro para o sucesso é sempre tentar apenas uma vez mais. - Thomas Edison</p>
+  </div><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/jefersonfagundes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonfagundes&show_icons=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfagundes&layout=compact&langs_count=7&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a"/>
+</div><br>
+  
+<div align="center">
+  <a href="https://api.whatsapp.com/send?phone=5548988348705"><img src="https://img.shields.io/badge/WhatsApp-20232a?style=for-the-badge&logo=whatsapp&logoColor=61dafb" target="_blank"></a>
+  <a href="mailto:jefersonfagundess@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232a?style=for-the-badge&logo=gmail&logoColor=61dafb" target="_blank"></a>
+  <a href="https://www.instagram.com/jefagundess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232a?style=for-the-badge&logo=instagram&logoColor=61dafb" target="_blank"></a>
+</div>
+  
+  ##
+  
+  ![Snake animation](https://github.com/jefersonfagundes/jefersonfagundes/blob/output/github-contribution-grid-snake.svg)
