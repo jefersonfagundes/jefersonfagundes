@@ -6,7 +6,7 @@
     <p align="left">👨🏽‍🎓 Aprendendo sobre <b>Desenvolvimento Web</b> voltado ao <b>Front-end</b> com auxílio de um mentor.</p>
     <p>💻 Estudando: <b>HTML</b> e <b>CSS</b>.</p>
     <p>🥇 O caminho mais seguro para o sucesso é sempre tentar apenas uma vez mais. - Thomas Edison</p>
-  </div><br><br>
+  </div><br>
 
 <div align="center">
   <a href="https://github.com/jefersonfagundes">
