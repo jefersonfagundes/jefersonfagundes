@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/jefersonfagundes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonfagundes&show_icons=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfagundes&layout=compact&langs_count=7&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonfagundes&show_icons=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfagundes&layout=compact&langs_count=7&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a"/>
 </div><br>
   
 <div align="center">
