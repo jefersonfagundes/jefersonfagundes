@@ -1,6 +1,6 @@
 ## < Hello World! /> I'm Jeferson Rosa Fagundes
 
-  <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coder GIF" width="250"><br>
+  <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coder GIF" width="200"><br>
 
   <div align="left">
     <p align="left">👨🏽‍🎓 Aprendendo sobre <b>Desenvolvimento Web</b> voltado ao <b>Front-end</b> com auxílio de um mentor.</p>
