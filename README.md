@@ -6,9 +6,9 @@
     <p align="left">👨🏽‍🎓 Aprendendo sobre <b>Desenvolvimento Web</b> voltado ao <b>Front-end</b> com auxílio de um mentor.</p>
     <p>💻 Estudando: <b>HTML</b> e <b>CSS</b>.</p>
     <p>🥇 “Comece onde você está. Use o que você tem. Faça o que puder.” - Arthur Ashe</p>
-  </div><br>
+  </div>
   
-
+##
 
 <div align="center">
   <a href="https://github.com/jefersonfagundes">
